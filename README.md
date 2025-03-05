@@ -32,8 +32,7 @@ Bid.ai is a Flutter application designed to provide a seamless user experience f
 ## Getting Started
 
 ### Prerequisites
-- Flutter SDK (v3.x.x recommended)
-- Dart (v3.x.x)
+- Flutter SDK
 - Android Studio / VS Code
 - Firebase account
 - Google Cloud Console access (for Google Sign-In)
