@@ -172,11 +172,11 @@ service cloud.firestore {
 
 ## 📸 Screenshots
 
-| Login Screen | Product Upload |
+| Sign up Screen | Login Screen |
 |-------------|---------
 | ![Sign up Screen](https://github.com/user-attachments/assets/13a2e5d5-987a-4352-82f9-07a37ab438a1) | ![Login](https://github.com/user-attachments/assets/70a1e499-47d7-4ba1-a52d-9512767b898d) |
 
-| Login Screen | Product Upload |
+| Product uploads | Product Upload |
 |-------------|---------
 | ![Product Upload](https://github.com/user-attachments/assets/f4d6111c-c37b-4923-99aa-275e2b51b71d) | ![fill details](https://github.com/user-attachments/assets/4bd54092-1c57-4f8a-8675-cfa30c2cf6d0)
 
@@ -184,7 +184,8 @@ service cloud.firestore {
 
 https://github.com/user-attachments/assets/e46a54f2-9b48-4b7f-8f60-2d6c47617685
 
-
+| Cloud Firestore Database |
+|-------------
 <img width="1102" alt="Screenshot 2025-03-05 at 6 23 15 PM" src="https://github.com/user-attachments/assets/fd7b3f9b-3a44-47b9-ac05-c5dc185d60ab" />
 
 
