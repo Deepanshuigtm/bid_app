@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "425113654617",
+    "project_id": "appforuser-3a161",
+    "storage_bucket": "appforuser-3a161.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425113654617:android:d0ce7376914d8232c12848",
+        "android_client_info": {
+          "package_name": "com.example.bid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425113654617-mjuitm86mnml6pn5aaqa1slsl533t0o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MFRdjpIxsyBsrQmLGTdDcBapaLZ7VhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425113654617-jomo3ad4d4gg9ct0d7djj01jv86jgmcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425113654617-qbmdg7kcjnnbemug5ucr2a8okqfts7bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easibite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425113654617:android:d0856177d73b0540c12848",
+        "android_client_info": {
+          "package_name": "com.example.bid_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425113654617-mjuitm86mnml6pn5aaqa1slsl533t0o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MFRdjpIxsyBsrQmLGTdDcBapaLZ7VhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425113654617-jomo3ad4d4gg9ct0d7djj01jv86jgmcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425113654617-qbmdg7kcjnnbemug5ucr2a8okqfts7bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easibite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425113654617:android:e602e1ec641aca71c12848",
+        "android_client_info": {
+          "package_name": "com.example.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425113654617-oj391q8f6h0dfccit71ocpt86of2runp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatApp",
+            "certificate_hash": "e1467a66dd19d9c8051e97800a1c4507691ac07b"
+          }
+        },
+        {
+          "client_id": "425113654617-mjuitm86mnml6pn5aaqa1slsl533t0o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MFRdjpIxsyBsrQmLGTdDcBapaLZ7VhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425113654617-jomo3ad4d4gg9ct0d7djj01jv86jgmcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425113654617-qbmdg7kcjnnbemug5ucr2a8okqfts7bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easibite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425113654617:android:977368226f66011cc12848",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425113654617-8uitir69qif794a03umrqa5jukg74d3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "e1467a66dd19d9c8051e97800a1c4507691ac07b"
+          }
+        },
+        {
+          "client_id": "425113654617-mjuitm86mnml6pn5aaqa1slsl533t0o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MFRdjpIxsyBsrQmLGTdDcBapaLZ7VhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425113654617-jomo3ad4d4gg9ct0d7djj01jv86jgmcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425113654617-qbmdg7kcjnnbemug5ucr2a8okqfts7bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easibite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425113654617:android:9688186eb0e5fac5c12848",
+        "android_client_info": {
+          "package_name": "com.example.easibite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425113654617-mjuitm86mnml6pn5aaqa1slsl533t0o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MFRdjpIxsyBsrQmLGTdDcBapaLZ7VhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425113654617-jomo3ad4d4gg9ct0d7djj01jv86jgmcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425113654617-qbmdg7kcjnnbemug5ucr2a8okqfts7bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easibite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
