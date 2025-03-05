@@ -43,5 +43,8 @@ Bid.ai is a Flutter application designed to provide a seamless user experience f
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bid-ai.git
+   [git clone https://github.com/Deepanshuigtm/bid_app]
    cd bid-ai
+  #### Install Dependencies
+```bash
+flutter pub get
