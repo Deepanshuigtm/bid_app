@@ -48,8 +48,8 @@ Bid.ai is a Flutter application designed to provide a seamless user experience f
   #### Install Dependencies
 ```bash
 flutter pub get
-
-## 🚀 Set Up Firebase
+```
+### Set Up Firebase
 
 1. Add `google-services.json` (Android) to `android/app/`
 2. Add `GoogleService-Info.plist` (iOS) to `ios/Runner/`
